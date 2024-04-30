@@ -1,0 +1,1 @@
+By this file am simply trying to write some lines of codes about my portfolio
